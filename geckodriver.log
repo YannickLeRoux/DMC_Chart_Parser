@@ -2280,3 +2280,412 @@ See /usr/include/servers/bootstrap_defs.h for the error codes.
 1500786838830	Marionette	INFO	Ceased listening
 1500786839136	Marionette	INFO	Ceased listening
 1500786839395	Marionette	INFO	Ceased listening
+1501199071931	geckodriver	INFO	geckodriver 0.18.0
+1501199071939	geckodriver	INFO	Listening on 127.0.0.1:49648
+1501199072985	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501199075442	Marionette	INFO	Listening on port 49657
+1501199075566	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501199075753	Marionette	DEBUG	loaded listener.js
+1501199075786	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-27 19:44:35.866 plugin-container[814:16021] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-27 19:44:35.868 plugin-container[814:16021] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1501199075885	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501199075886	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501199076424	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dmcworld.net/buzz/index.php?i=221"
+1501199078924	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F324585562&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199079992	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F326196108&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199081065	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F322785322&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199081376	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F320678717&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199081524	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F321903952&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199081714	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F322715612&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199082123	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F317491609&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199082398	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F321897222&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199082711	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F319416875&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199082833	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F322860029&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199082958	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F323889656&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199083081	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F323916865&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199083242	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F323235791&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199083371	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F325179915&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199083497	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F325353710&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199083842	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F327287604&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199084025	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F318813202&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199084147	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F323923690&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199084286	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F311164157&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199084393	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F323053645&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199084474	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F324561315&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199084554	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F322888967&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199086263	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F326196108&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199086289	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F322785322&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199086297	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F321903952&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199086308	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F322715612&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199086319	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F317491609&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199086431	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F321897222&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199086441	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F323916865&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199086448	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F323889656&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199086457	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F322860029&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199086466	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F319416875&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199086481	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F324585562&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199086491	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F323235791&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199086500	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F325353710&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199086508	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F325179915&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199086525	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F327287604&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199086539	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F318813202&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199086544	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F323923690&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199086555	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F311164157&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199086563	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F323053645&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199086573	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F324561315&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199086632	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F322888967&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199086644	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F320678717&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501199086650	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dmcworld.net/buzz/index.php?i=221"
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/multi-sounds-bc7b009-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+1501199313442	Marionette	INFO	Ceased listening
+1501211157631	geckodriver	INFO	geckodriver 0.18.0
+1501211157637	geckodriver	INFO	Listening on 127.0.0.1:52244
+1501211158689	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501211161658	Marionette	INFO	Listening on port 52253
+1501211161753	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501211162037	Marionette	DEBUG	loaded listener.js
+1501211162080	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-27 23:06:02.153 plugin-container[4085:127273] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-27 23:06:02.155 plugin-container[4085:127273] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1501211162179	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501211162180	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501211162808	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dmcworld.net/buzz/index.php?i=230"
+1501211164410	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332837915&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211165660	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F335052479&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211165997	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334571479&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211166580	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F335055240&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211166680	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F335055092&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211167265	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334735328&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211167412	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334212904&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211167545	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F330356698&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211167696	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F335055726&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211168560	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334197223&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211168799	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F335056010&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211169118	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334577197&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211169696	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334022970&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211169884	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F335052479&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211170401	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F335055092&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211170409	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F335055240&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211170432	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334212904&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211170438	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334735328&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211170447	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F330356698&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211170459	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F335055726&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211170468	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332837915&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211170484	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334571479&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211170546	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334197223&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211170559	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F335056010&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211170567	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334577197&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211170577	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334022970&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211170583	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dmcworld.net/buzz/index.php?i=230"
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+1501211503465	geckodriver	INFO	geckodriver 0.18.0
+1501211503471	geckodriver	INFO	Listening on 127.0.0.1:52571
+1501211504520	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501211507165	Marionette	INFO	Listening on port 52580
+1501211507227	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501211507495	Marionette	DEBUG	loaded listener.js
+1501211507527	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-27 23:11:47.605 plugin-container[4295:134343] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-27 23:11:47.606 plugin-container[4295:134343] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1501211507631	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501211507631	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501211508169	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dmcworld.net/buzz/index.php?i=229"
+1501211510062	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332837915&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211511412	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F331835523&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211512377	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332853997&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211512573	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F330356698&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211512957	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332879909&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211513628	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F333875589&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211513902	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334212904&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211514061	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334577197&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211514217	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F333721456&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211514418	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332493170&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211514580	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332510851&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211514804	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334022970&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211515141	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F336087957&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211515298	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F331486086&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211515578	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F331695099&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211515772	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F287145573&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211516114	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F329656757&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211517357	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F331835523&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211517380	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332853997&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211517386	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F330356698&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211517563	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332879909&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211517572	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332837915&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211517580	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F333875589&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211517589	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334212904&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211517596	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334577197&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211517612	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F333721456&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211517626	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332493170&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211517638	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332510851&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211517696	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334022970&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211517700	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F336087957&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211517706	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F331486086&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211517713	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F331695099&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211517716	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F287145573&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211517730	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F329656757&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501211517739	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dmcworld.net/buzz/index.php?i=229"
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/multi-sounds-bc7b009-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1501212805895	geckodriver	INFO	geckodriver 0.18.0
+1501212805902	geckodriver	INFO	Listening on 127.0.0.1:53060
+1501212806956	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501212809503	Marionette	INFO	Listening on port 53069
+1501212809569	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501212809826	Marionette	DEBUG	loaded listener.js
+1501212809874	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-27 23:33:29.964 plugin-container[4743:149058] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-27 23:33:29.965 plugin-container[4743:149058] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1501212818199	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501212818200	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501212818636	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dmcworld.net/buzz/index.php?i=229"
+1501212819894	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F330356698&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212821060	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F287145573&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212821584	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334577197&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212822277	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334022970&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212822495	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F336087957&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212822627	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332853997&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212823022	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F333875589&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212823102	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332510851&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212823179	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332879909&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212823327	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332493170&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212823441	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334212904&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212823522	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F331835523&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212823597	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F333721456&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212823721	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F331486086&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212823797	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332837915&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212823871	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F331695099&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212823962	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F329656757&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212824555	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F287145573&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212824593	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334577197&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212824597	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334022970&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212824601	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F336087957&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212824604	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F330356698&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212824608	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332853997&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212824610	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F333875589&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212824645	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332510851&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212824647	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332879909&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212824652	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332493170&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212824656	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334212904&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212824661	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F331835523&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212824663	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F333721456&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212824665	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F331486086&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212824668	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332837915&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212824676	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F331695099&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212824678	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F329656757&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212824682	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dmcworld.net/buzz/index.php?i=229"
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/multi-sounds-bc7b009-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+1501212937193	geckodriver	INFO	geckodriver 0.18.0
+1501212937202	geckodriver	INFO	Listening on 127.0.0.1:53279
+1501212938246	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501212941092	Marionette	INFO	Listening on port 53288
+1501212941233	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501212941474	Marionette	DEBUG	loaded listener.js
+1501212941508	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-27 23:35:41.586 plugin-container[4848:151705] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-27 23:35:41.586 plugin-container[4848:151705] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1501212941611	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501212941612	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501212943022	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dmcworld.net/buzz/index.php?i=229"
+1501212944451	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F331695099&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212945295	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F333875589&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212946204	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332879909&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212946514	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F336087957&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212946661	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332493170&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212946961	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F329656757&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212947212	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332853997&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212947402	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334212904&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212947869	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334577197&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212948028	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332510851&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212948178	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F333721456&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212948371	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F331835523&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212948490	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334022970&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212948607	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F287145573&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212948713	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332837915&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212948817	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F330356698&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212948914	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F331486086&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212950143	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F333875589&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212950155	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332879909&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212950166	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332493170&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212950240	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F329656757&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212950248	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334212904&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212950256	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332853997&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212950261	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332510851&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212950273	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334577197&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212950282	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F333721456&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212950288	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F331835523&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212950295	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334022970&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212950306	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F330356698&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212950310	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332837915&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212950316	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F331486086&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212950320	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F287145573&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212950327	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F331695099&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212950329	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F336087957&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501212950334	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dmcworld.net/buzz/index.php?i=229"
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/multi-sounds-bc7b009-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+1501213033901	Marionette	INFO	Ceased listening
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400AB,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1501213036238	Marionette	INFO	Ceased listening
+1501213039971	Marionette	INFO	Ceased listening
+1501214025941	geckodriver	INFO	geckodriver 0.18.0
+1501214025950	geckodriver	INFO	Listening on 127.0.0.1:53570
+1501214026999	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501214029733	Marionette	INFO	Listening on port 53591
+1501214029883	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501214030090	Marionette	DEBUG	loaded listener.js
+1501214030122	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-27 23:53:50.214 plugin-container[5178:163303] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-27 23:53:50.216 plugin-container[5178:163303] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1501214030243	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501214030244	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501214030914	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dmcworld.net/buzz/index.php?i=230"
+1501214033214	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334022970&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501214034089	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F335055726&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501214034559	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F335055240&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501214034961	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F330356698&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501214035126	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F335056010&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501214035393	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334577197&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501214035706	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334571479&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501214036047	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334930438&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501214036185	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334212904&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501214036447	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F335055092&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501214036627	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F335052479&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501214036871	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332837915&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501214037016	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334735328&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501214038203	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334197223&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501214038921	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F335055726&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501214039032	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F335055240&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501214039043	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F335056010&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501214039057	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334577197&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501214039170	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334571479&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501214039180	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334930438&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501214039191	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334212904&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501214039202	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F335052479&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501214039208	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F335055092&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501214039223	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F332837915&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501214039230	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F330356698&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501214039237	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334022970&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501214039259	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334735328&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501214039265	Marionette	DEBUG	Received DOM event "pageshow" for "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F334197223&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&visual=false"
+1501214039277	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dmcworld.net/buzz/index.php?i=230"
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 
+JavaScript error: https://w.soundcloud.com/player/single-sound-b828dde-e659a4d3.js, line 3: NS_ERROR_FAILURE: 

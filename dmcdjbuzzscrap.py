@@ -13,12 +13,13 @@ installed in PATH
 
 """
 from bs4 import BeautifulSoup
+import re
 import requests
 import webbrowser
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 
-urlstart="http://www.dmcworld.net/features/charts/buzz-chart/buzz-charts-25-05-17/"
+urlstart= input("DMC Buzz chart URL: ")
 response = requests.get(urlstart,headers={'User-Agent': 'Mozilla/5.0'})
 results_page = BeautifulSoup(response.content, 'lxml')
 real_url = results_page.find('iframe',{'id':'buzzframe'})
@@ -32,8 +33,11 @@ elm = driver.find_elements_by_class_name("track-title")
 
 for track in elm[:20]:
     new = 2
+    track_text = re.sub('[^A-Za-z0-9]+', ' ',track.text).lstrip() 
     tabUrl = "http://google.com/search?q="
-    term = track.text + "+zippyshare" # searching for matching zippyshare links
+    term = track_text + "+zippyshare" # searching for matching zippyshare link
+    print (track)
+    print(track_text)   
     webbrowser.open(tabUrl + term,new = new)
 
 # driver.close()
