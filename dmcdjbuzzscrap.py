@@ -14,6 +14,7 @@ installed in PATH
 """
 from bs4 import BeautifulSoup
 import requests
+import re
 import webbrowser
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
@@ -32,8 +33,9 @@ elm = driver.find_elements_by_class_name("track-title")
 
 for track in elm[:20]:
     new = 2
+    track_text = re.sub('[^A-Za-z0-9]+', ' ',track.text).lstrip() #strip from non alpha char
     tabUrl = "http://google.com/search?q="
-    term = track.text + "+zippyshare" # searching for matching zippyshare links
+    term = track_text + "+zippyshare" # searching for matching zippyshare links
     webbrowser.open(tabUrl + term,new = new)
 
 # driver.close()
