@@ -8,13 +8,14 @@ Created on Jul 21st 2017
 The purpose of this program is to parse the 'buzz chart - day' of the website
 and try to find zippyshare download links for the charted tracks.
 
-You'll need Firefox installed and the latest version of geckodriver 
+You'll need Firefox installed and the latest version of geckodriver
 installed in PATH
 
 """
 from bs4 import BeautifulSoup
 import re
 import requests
+import re
 import webbrowser
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
@@ -36,8 +37,8 @@ for track in elm[:20]:
     track_text = re.sub('[^A-Za-z0-9]+', ' ',track.text).lstrip() # strip from non apha
     tabUrl = "http://google.com/search?q="
     term = track_text + "+zippyshare" # searching for matching zippyshare link
-  
+
     webbrowser.open(tabUrl + term,new = new)
 
 # driver.close()
-        
+
